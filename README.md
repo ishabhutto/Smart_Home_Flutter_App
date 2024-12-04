@@ -70,56 +70,56 @@ The **Smart Home Automation System** is a mobile app designed to help users cont
 ### 1. Sign Up Screen & Profile Page
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/b039275e-ba55-4c23-b2ac-093f7888312f" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/dedc9691-14c8-433f-a0e8-c5bbd9f797d7" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/b039275e-ba55-4c23-b2ac-093f7888312f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dedc9691-14c8-433f-a0e8-c5bbd9f797d7" width="200"/>
 </div>
 
 ### 2. Home Page (Initial View) & Add New Device Screen
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/8124390a-beb5-4f55-a185-36d597d7c75f" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/8525f5b2-c91c-4d1c-960f-49c7cb38404e" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/8124390a-beb5-4f55-a185-36d597d7c75f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8525f5b2-c91c-4d1c-960f-49c7cb38404e" width="200"/>
 </div>
 
 ### 3. Add Device Screen (Filled Form) & Device List after Adding New Device
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/de5146b0-3cf3-40de-af32-3143d63e6456" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/ed0a4a78-4841-418e-958c-4ab9b74f287a" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/de5146b0-3cf3-40de-af32-3143d63e6456" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ed0a4a78-4841-418e-958c-4ab9b74f287a" width="200"/>
 </div>
 
 ### 4. Login Screen & Notification when Device Status is Turned Off
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/1515f090-f9dd-4a53-ba26-29b206a095e6" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/8bb3b072-ab96-422e-91ab-26ffcbe8eb7c" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/1515f090-f9dd-4a53-ba26-29b206a095e6" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8bb3b072-ab96-422e-91ab-26ffcbe8eb7c" width="200"/>
 </div>
 
 ### 5. Notification when Device Status is Turned On & Energy Consumption Pie Chart (Device Overview)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/5fbdf0b4-8692-457f-a6af-64ccbf44b298" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/fdcac56e-a9ff-44f3-999e-a8bed8928619" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/5fbdf0b4-8692-457f-a6af-64ccbf44b298" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fdcac56e-a9ff-44f3-999e-a8bed8928619" width="200"/>
 </div>
 
 ### 6. Energy Consumption Pie Chart (Usage Distribution) & Voltage Alert Notification
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/7145488b-c557-46d8-a6ab-a6c39359ec91" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/dfae7016-35f1-442e-a435-bc226d341ebb" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/7145488b-c557-46d8-a6ab-a6c39359ec91" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dfae7016-35f1-442e-a435-bc226d341ebb" width="200"/>
 </div>
 
 ### 7. Device Deletion Confirmation & Energy Consumption Line Chart
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/cd474e81-9b0a-4229-97c6-dcbb63905803" width="250" height="250"/>
-  <img src="https://github.com/user-attachments/assets/cbce3541-706d-4eaa-b1eb-6375dcede1e3" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/cd474e81-9b0a-4229-97c6-dcbb63905803" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cbce3541-706d-4eaa-b1eb-6375dcede1e3" width="200"/>
 </div>
 
 ### 8. Energy Consumption Bar Chart (Per Device)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/4ab82e6c-f65b-4be5-83c6-52b08890c09f" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/4ab82e6c-f65b-4be5-83c6-52b08890c09f" width="200"/>
 </div>
 
 ---
